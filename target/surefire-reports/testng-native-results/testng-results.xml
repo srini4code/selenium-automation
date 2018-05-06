@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="21474" started-at="2018-05-06T18:11:41Z" finished-at="2018-05-06T18:12:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21474" started-at="2018-05-06T18:11:41Z" finished-at="2018-05-06T18:12:02Z">
+      <class name="org.itlink.selenium.selenium_automation.RegisterTest">
+        <test-method status="PASS" signature="testRegister()[pri:0, instance:org.itlink.selenium.selenium_automation.RegisterTest@7a5d012c]" name="testRegister" duration-ms="9963" started-at="2018-05-06T18:11:53Z" description="Sign-up User" finished-at="2018-05-06T18:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+      </class> <!-- org.itlink.selenium.selenium_automation.RegisterTest -->
+      <class name="org.itlink.selenium.selenium_automation.LoginTest">
+        <test-method status="PASS" signature="testRegister()[pri:0, instance:org.itlink.selenium.selenium_automation.LoginTest@3cda1055]" name="testRegister" duration-ms="11462" started-at="2018-05-06T18:11:41Z" description="Sign-up User" finished-at="2018-05-06T18:11:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+      </class> <!-- org.itlink.selenium.selenium_automation.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
